@@ -13,7 +13,7 @@ This repository contains an Ethereum Tracker project designed to display real-ti
 
 **Important Note:** 
 When connecting to WiFi keep in mind that this project utilizes the Wokwi environment , if you implement this on a bare-metal machine, use your own ssid and password. Furthermore
-if you want to display other currencies fill free to do so, CoinGecko supports various currencies.
+if you want to display other currencies feel free to do so, CoinGecko supports various currencies.
 
 ## Used Technologie
 
